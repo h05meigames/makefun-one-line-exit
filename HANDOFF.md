@@ -19,10 +19,12 @@
 - Description: make.fun bounty entry: The One-Line Exit — one resignation letter, exactly one line, whose only job is to be funny
 - Topic: `makefun` (verified)
 - GitHub account: h05meigames (verified with `gh auth status`)
-- FINAL commit SHA: `82857cce6f61917eb5a7cc38286daad4e4f5a9f0`
+- FINAL commit SHA (entry code): `82857cce6f61917eb5a7cc38286daad4e4f5a9f0`
+- HEAD after HANDOFF commit: `614ebe7a7eccddc3ef481c3e0aaaf20d374c9577` (HANDOFF.md only, no code change)
 - Commit history:
   - `e454782` — Add The One-Line Exit resignation entry (draft, 167 chars)
   - `82857cc` — Tighten resignation line: drop 'formal notice of' (167 -> 150 chars)
+  - `614ebe7` — Add HANDOFF.md (build notes, test evidence, kit check pending)
 - Repo created and pushed 24 Nov 2026 ~17:13 WIB; working tree clean after push.
 
 ## The entry line (exact)
