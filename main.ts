@@ -7,7 +7,7 @@
 import { mkdirSync, writeFileSync } from "node:fs";
 
 const line =
-  "Please accept this letter as formal notice of my resignation, effective two weeks from today, or immediately if the printer jams one more time — whichever comes first.";
+  "Please accept this letter as my resignation, effective two weeks from today, or immediately if the printer jams one more time — whichever comes first.";
 
 // Guard: the gate requires /output/entry.txt to be 1–200 characters.
 // Count code points (not UTF-16 units) so multi-byte characters are
